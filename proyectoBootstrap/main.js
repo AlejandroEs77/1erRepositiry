@@ -9,3 +9,5 @@ typewriter
 .typeString('La ciudad de la eterna primavera')
 .pauseFor(200)
 .start();
+
+console.log('hola, me falto este mensaje');
